@@ -1,8 +1,8 @@
 **INTERFACE DE APLICATIVO DE LOJA DE TÊNIS**
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-<img src="/home/carlos/Imagens/Captura de tela de 2021-04-06 08-37-49.png" alt="Captura de tela de 2021-04-06 08-37-49" style="zoom:50%;" />*<img src="/home/carlos/Imagens/Captura de tela de 2021-04-06 08-36-39.png" alt="Captura de tela de 2021-04-06 08-36-39" style="zoom: 50%;" />**
+![Captura de tela de 2021-04-06 08-36-39](https://user-images.githubusercontent.com/50087300/113712686-cf3f9200-96bc-11eb-86df-5eb4a85042cf.png)
+![Captura de tela de 2021-04-06 08-37-49](https://user-images.githubusercontent.com/50087300/113712737-df577180-96bc-11eb-9dad-d2403a0c20a9.png)
 
 
 
