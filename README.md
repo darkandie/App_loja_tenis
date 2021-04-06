@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 **TECNOLOGIAS E LIBS**
 
-- **REACT **
+- **REACT**
 - **REACT NATIVE**
 - **REACT NAVIGATION**
 
